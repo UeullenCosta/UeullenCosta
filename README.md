@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UeullenCosta
 - 👀 I’m interested in  Back end
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on  melhoramento em sistema de inspeção e cubagem
-- 📫  ueullen.sistemas@outlook.com
+- 📫  ueullen.costa@outlook.com
 
 <!---
 UeullenCosta/UeullenCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
